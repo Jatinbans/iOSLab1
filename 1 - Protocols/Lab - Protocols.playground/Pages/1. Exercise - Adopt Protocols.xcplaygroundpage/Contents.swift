@@ -22,8 +22,8 @@ class Human: CustomStringConvertible, Equatable, Comparable, Codable{
     }
 }
 
-var me = Human(name: "Chiranshu", age: 21)
-var myFriend = Human(name: "Jahnvi", age: 20)
+var me = Human(name: "Jatin Bansal", age: 21)
+var myFriend = Human(name: "Jipnesh", age: 20)
 
 //:  Make the `Human` class adopt the `CustomStringConvertible` protocol. Print both of your previously initialized `Human` objects.
 print(me)
